@@ -59,9 +59,10 @@ $: repo init -u https://github.com/Freescale/fsl-community-bsp-platform -b maste
  
 master-next: for intrepid developers and testers
 
-Patches are typically merged into master-next and then are merged into master after a testing 
-and comment period. It's possible that master-next has something you want or need. But it's also 
-possible that using master-next will break something that was working before. Use with caution.
+Patches are typically merged into master-next and then are merged into 
+master after a testing and comment period. It's possible that master-next 
+has something you want or need. But it's also possible that using 
+master-next will break something that was working before. Use with caution.
 
 $: repo init -u https://github.com/Freescale/fsl-community-bsp-platform -b master-next
 
